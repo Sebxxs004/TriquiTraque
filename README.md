@@ -1,5 +1,5 @@
 # TriquiTraque
 Basic game of triquitraque.
 
-#By
+# By
 Juan Sebastian Cano Vasquez - 02230131036
